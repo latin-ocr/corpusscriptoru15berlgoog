@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru15berlgoog_0629.png"; bbox 0 0 3064 4890; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 781 1619 1983 1731">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 781 1619 1983 1731">
+     <span class='ocr_line' id='line_1_1' title="bbox 781 1619 1983 1731; baseline 0 -33"><span class='ocrx_word' id='word_1_1' title='bbox 781 1621 927 1731; x_wconf 66' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1008 1619 1983 1702; x_wconf 79' lang='lat' dir='ltr'><strong>COMMENTARIOS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 277 1857 2484 2229">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 277 1857 2484 2229">
+     <span class='ocr_line' id='line_1_2' title="bbox 277 1857 2484 1972; baseline 0.002 -7"><span class='ocrx_word' id='word_1_3' title='bbox 277 1857 1380 1972; x_wconf 85' lang='lat' dir='ltr'>NICEPHORI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1511 1859 2484 1971; x_wconf 84' lang='lat' dir='ltr'>BRYENNII</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 593 2131 2157 2229; baseline -0.002 -5"><span class='ocrx_word' id='word_1_5' title='bbox 593 2131 1061 2226; x_wconf 78' lang='lat' dir='ltr'><strong>NOTAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1120 2138 1535 2229; x_wconf 85' lang='lat' dir='ltr'>PETRI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1592 2132 2157 2226; x_wconf 81' lang='lat' dir='ltr'><strong>PosslNl.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
